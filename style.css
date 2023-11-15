@@ -18,7 +18,7 @@ body{
 
 .opentext{
     background-color:rgba(189, 195, 199, 0.7);
-    width: 70%;
+    width: 90%;
     border-radius: 20px;
     border: 10px;
     border-color: black;
@@ -28,7 +28,7 @@ body{
 
 .blogtext{
     background-color:rgba(189, 195, 199, 0.7);
-    width: 70%;
+    width: 90%;
     border-radius: 20px;
     border: 10px;
     border-color: black;
@@ -37,7 +37,7 @@ body{
 
 .projecttext{
     background-color:rgba(189, 195, 199, 0.7);
-    width: 70%;
+    width: 90%;
     border-radius: 20px;
     border: 10px;
     border-color: black;
