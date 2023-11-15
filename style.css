@@ -2,12 +2,13 @@ body{
     margin: 0px;
     padding: 0px;
     top : 0;
-    background-color: red;
+    background-color: white;
 }
 
 .navbar{
     background-color: black;
     overflow: hidden;
+    color: red;
 }
 
 
