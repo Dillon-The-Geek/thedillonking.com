@@ -78,3 +78,19 @@ body{
     padding-left: 10px;
     
 }
+
+a:hover{
+    color: purple;
+}
+
+a{
+    color: white;
+}
+
+.blogtext a{
+    color: purple;
+}
+
+.blogtext a:hover{
+    color: white;
+}
